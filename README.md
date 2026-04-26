@@ -1,5 +1,6 @@
 # Heart-Disease-Dataset
 A machine learning-based system that analyzes health parameters to predict the risk of heart disease.
+
 # ❤️ Heart Disease Risk Prediction Project
 
 ## 📌 Overview
@@ -7,21 +8,6 @@ A machine learning-based system that analyzes health parameters to predict the r
 This project focuses on analyzing and predicting **heart disease risk** using healthcare data. It covers the full data pipeline from **raw dataset → cleaned dataset → analysis → machine learning model**.
 
 ---
-
-## 📂 Project Structure
-
-```
-📁 Heart-Disease-Risk/
-│
-├── 📄 Data_Heart Problem_risk.csv              # Original raw dataset
-├── 📄 Data_Heart_Problem_Risk_Cleaned.csv      # Cleaned dataset
-├── 📄 Heart_Problem_Analysis.py                # Data analysis script
-├── 📄 Heart_Problem-ML.ipynb                   # Machine learning notebook
-├── 📄 README.md                               # Project documentation
-```
-
----
-
 ## 🧾 Dataset Description
 
 ### 🔹 1. Original Dataset
